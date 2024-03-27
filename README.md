@@ -1,6 +1,4 @@
-# Price Prediction Using ML and Dockerized Deployment
-
-## Boston House Price Prediction Web Application with Dockerized Deployment
+# Boston House Price Prediction Web Application with Dockerized Deployment
 
 ## Overview:
 This project implements a web application for predicting house prices in Boston using machine learning techniques, specifically linear regression. The application is built using Flask and is deployed using Docker for easy setup and scalability. Below are the steps involved in completing the project.

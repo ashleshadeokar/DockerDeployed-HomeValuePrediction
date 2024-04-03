@@ -3,7 +3,16 @@
 ## Overview:
 This project implements a web application for predicting house prices in Boston using machine learning techniques, specifically linear regression. The application is built using Flask and is deployed using Docker for easy setup and scalability. Below are the steps involved in completing the project.
 
-## Steps Completed:
+## Tools And Software Required:
+- Python
+- Scikit-learn
+- Flask
+- Docker
+- Git
+- Visual Studio Code
+- Heroku
+  
+## Steps:
 1. **Understanding the Dataset:** Analyzed the Boston house prices dataset to understand its structure and features.
 2. **Preparing Dataset And Basic Analysis:** Preprocessed the dataset, handled missing values, and conducted basic exploratory data analysis.
 3. **Preparing Dataset For Model Training:** Split the dataset into training and testing sets in preparation for model training.
@@ -21,12 +30,5 @@ This project implements a web application for predicting house prices in Boston 
 15. **Deploying The App To Heroku:** Deployed the web application on Heroku for public access.
 16. **Deploying The App Using Docker:** Dockerized the application for streamlined deployment and scalability.
 
-## Tools And Software Required:
-- Python
-- Scikit-learn
-- Flask
-- Docker
-- Git
-- Visual Studio Code
-- Heroku
+
 
